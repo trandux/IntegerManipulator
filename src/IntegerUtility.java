@@ -1,5 +1,3 @@
-// package edu.kit.informatik;
-
 /** This class contains 6 different methods to manipulate or to analyse integer arrays.
  *
  * @author upiol
